@@ -1,0 +1,12 @@
+.resolucion{
+    width: 99%;
+    text-align: center;
+}
+
+body {
+    background-image: url('./../concepcion.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
